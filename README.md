@@ -13,16 +13,16 @@ Follow these steps to clone and run the project on your local machine:
 Make sure you have the following installed on your machine:
 
 Node.js
-npm (usually comes with Node.js)
-First, run the development server:
-Clone the Repository
-git clone https://github.com/flowkeyz1996/edgeblog.git
-cd blog-website
-Install Dependencies:
-npm install
-Run the Development Server:
-npm run dev
-The development server will start, and you can view your blog website by visiting http://localhost:3000 in your web browser.
+npm (usually comes with Node.js)<br>
+First, run the development server:<br>
+Clone the Repository<br>
+git clone https://github.com/flowkeyz1996/edgeblog.git<br>
+cd blog-website<br>
+Install Dependencies:<br>
+npm install<br>
+Run the Development Server:<br>
+npm run dev<br>
+The development server will start, and you can view your blog website by visiting http://localhost:3000 in your web browser.<br>
 
 Customize and Extend
 Feel free to customize and extend the project to fit your needs. Here are some key directories and files to explore:
