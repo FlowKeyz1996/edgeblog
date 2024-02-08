@@ -16,7 +16,7 @@ const Footer = () => {
             <img src="greylogo.svg"></img>
         </div>
         <div className="flex">
-        <FaWikipediaW size={20} className="cursor-pointer mr-2c"/>
+        <FaWikipediaW size={20} className="cursor-pointer mr-2"/>
         <FaPinterest size={20} className="cursor-pointer mr-2"/>
         <FaTwitter size={20} className="cursor-pointer mr-2"/>
         <FaInstagram size={20} className="cursor-pointer mr-2"/>
