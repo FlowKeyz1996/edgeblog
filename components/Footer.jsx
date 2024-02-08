@@ -16,16 +16,16 @@ const Footer = () => {
             <img src="greylogo.svg"></img>
         </div>
         <div className="flex">
-        <FaWikipediaW size={20} className="cursor-pointer mr-1"/>
-        <FaPinterest size={20} className="cursor-pointer mr-1"/>
-        <FaTwitter size={20} className="cursor-pointer mr-1"/>
-        <FaInstagram size={20} className="cursor-pointer mr-1"/>
+        <FaWikipediaW size={20} className="cursor-pointer mr-2c"/>
+        <FaPinterest size={20} className="cursor-pointer mr-2"/>
+        <FaTwitter size={20} className="cursor-pointer mr-2"/>
+        <FaInstagram size={20} className="cursor-pointer mr-2"/>
         <FaFacebook size={20} className="cursor-pointer"/>
        
         </div>
-        <div className="flex">
-        <p className="text-grey">All Right Reserved 2018 3layers</p>
-        </div>
+        
+        <p className="text-[#808080] text-sm">All Right Reserved 2018 3layers</p>
+
         
         </footer>
         </div>
