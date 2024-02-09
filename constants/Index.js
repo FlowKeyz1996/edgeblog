@@ -105,9 +105,173 @@ export const readings  =[
     },
 
 ];
+
 export const readingLists =[
+    {
+        id:0,
+        image_list:"/",
+        design_name:"UI design",
+
+    },
+    {
+        id:1,
+        image_list:"/",
+        stack:"UX design",
+
+    },
+    {
+        id:2,
+        image_list:"/",
+        stack:"SEO",
+
+    },
+    {
+        id:3,
+        image_list:"/",
+        stack:"Popular",
+
+    },
+    {
+        id:4,
+        image_list:"/",
+        stack:"Essentials",
+
+    },
 
 ];
+export const latests = [
+   {
+     id:0,
+     imageCover:"/popularone.svg",
+     path:"",
+     author_name:"",
+     in:"",
+     track:"",
+
+   },
+   {
+    id:1,
+    imageCover:"/populartwo.svg",
+    path:"by",
+    author_name:"sanni emmanuel",
+    in:"",
+    track:"design",
+
+  },
+  {
+    id:2,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+  {
+    id:3,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+  {
+    id:4,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+  {
+    id:5,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+  {
+    id:6,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+  {
+    id:7,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+  {
+    id:8,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+  {
+    id:9,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+  {
+    id:10,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+  {
+    id:11,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+  {
+    id:12,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+  {
+    id:13,
+    imageCover:"",
+    path:"",
+    author_name:"",
+    in:"",
+    track:"",
+
+  },
+];
+export const topics =[
+    {
+
+    },
+]
 
 
 

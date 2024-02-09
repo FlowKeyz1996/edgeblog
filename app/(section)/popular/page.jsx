@@ -1,3 +1,4 @@
+import Reader from '@/components/Reader'
 import { readings } from '@/constants/Index'
 import React from 'react'
 
@@ -9,7 +10,7 @@ const page = () => {
             <h1 class="font-bold text-3xl">Reading list</h1>
         </div>
 
-        <div className="flex  m-10 flex-col items-center justify-center">
+        <div className="flex max-w-7xl mx-auto m-10 flex-col items-center justify-center">
             {readings.map((reading, index) =>(
                 <div className="flex items-center justify-center m-10" key={reading.id}>
                
@@ -25,6 +26,7 @@ const page = () => {
             </div>
 
             ))}
+            <Reader/>
             
 
         </div>
