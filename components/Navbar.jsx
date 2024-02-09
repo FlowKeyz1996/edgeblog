@@ -12,11 +12,11 @@ const Navbar = () => {
          
         <nav className="flex justify-between aligin-center">
         <div className="mr-5 ">
-            <Link href="/" className="mr-7">Popular</Link>
+            <Link href="/popular" className="mr-7 hover:bg-primary hover:text-white hover:p-0.5 hover:rounded">Popular</Link>
             <Link href="/new" className="ml-4 hover:bg-primary hover:text-white hover:p-0.5 hover:rounded">New</Link>
         </div>
         <div>
-        <img src="/logo.svg" alt='arrow' className="hover:cursor-pointer" />
+        <Link href="/"><img src="/logo.svg" alt='arrow' className="hover:cursor-pointer" /></Link>
         </div>
         <div className="flex cursor-pointer">
         <Bars3Icon className="h-7 w-7 mr-3"/>
