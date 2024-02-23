@@ -270,9 +270,9 @@ export const latests = [
 export const topics =[
   {
     id:0,
-    topicsHeader:"Inspiration",
-    topicsIcon:"/icon1.svg",
-    topicsParagraph:"Get the web design inspiration you need from top 3layers users, amazing landing page and site designs, and 3layers Workshops.",
+    topicHeader:"Inspiration",
+    topicIcon:"/icon1.svg",
+    topicParagraph:"Get the web design inspiration you need from top 3layers users, amazing landing page and site designs, and 3layers Workshops.",
    },
    {
     id:1,
