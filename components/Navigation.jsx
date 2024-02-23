@@ -5,16 +5,17 @@ const Navigation = () => {
     <div>
         <div>
             <div>
-            <img src="" alt="" />
+            <img src="/logo" alt="" />
             </div>
             <nav>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Popular</li>
+                    <li>New</li>
+                    <li>Reading List</li>
+                    <li>Topics</li>
+                    <li>Subscribe</li>
                 </ul>
+
             </nav>
         </div>
     </div>

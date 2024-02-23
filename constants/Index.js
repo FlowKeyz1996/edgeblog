@@ -142,8 +142,8 @@ export const readingLists =[
 export const latests = [
    {
      id:0,
-     imageCover:"/popularone.svg",
-     path:"",
+     imageCover:"/newone.svg",
+     path:"DESIGN PROCESS",
      author_name:"",
      in:"",
      track:"",
@@ -268,9 +268,48 @@ export const latests = [
   },
 ];
 export const topics =[
-    {
-
-    },
+  {
+    id:0,
+    topicsHeader:"Inspiration",
+    topicsIcon:"/icon1.svg",
+    topicsParagraph:"Get the web design inspiration you need from top 3layers users, amazing landing page and site designs, and 3layers Workshops.",
+   },
+   {
+    id:1,
+    topicsHeader:"Inspiration",
+    topicsIcon:"/icon2.svg",
+    topicsParagraph:"All the free tools and resources you need to build better websites, manage your time, be more creative, and freelance like a boss.",
+   },
+   {
+    id:2,
+    topicsHeader:"Inspiration",
+    topicsIcon:"/icon3.svg",
+    topicsParagraph:"Get the lowdown on the latest new features of 3layers, from flexbox to responsive images, Client Billing to Google Domains.",
+   },
+   {
+    id:3,
+    topicsHeader:"Inspiration",
+    topicsIcon:"/icon4.svg",
+    topicsParagraph:"Get tips and insights on building your own business with a little help from 3layers.",
+   },
+   {
+    id:4,
+    topicsHeader:"Inspiration",
+    topicsIcon:"/icon5.svg",
+    topicsParagraph:"Get step-by-step guides to building common layouts and interactions, including how to build natural-language forms, modals, ebooks, banner ads, and much more.",
+   },
+   {
+    id:5,
+    topicsHeader:"Inspiration",
+    topicsIcon:"/icon6.svg",
+    topicsParagraph:"Get tips, insights, and advice on becoming a freelance web designer, including how to find clients, design your freelancing rates, and managing projects.",
+   },
+   {
+    id:6,
+    topicsHeader:"Inspiration",
+    topicsIcon:"/icon7.svg",
+    topicsParagraph:"Learn to better manage your design process, from wireframing and prototyping to gathering and handling feedback — plus tools that help.",
+   },
 ]
 
 
